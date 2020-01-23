@@ -1,0 +1,2 @@
+[filter "ignorecertpath"]
+	smudge = sed '/\\ \\ \\ \\ m_CertPath\\:/'d
